@@ -1,0 +1,25 @@
+## Shortcrust Pastry Biscuits
+__Source and additional information: https://github.com/OMerkel/recipes __
+
+### Ingredients
+
+[%interactive]
+* [ ] 450 g flour
+* [ ] 300 g butter
+* [ ] 150 g sugar
+* [ ] dash of lemon juice
+* [ ] pinch of salt
+* [ ] pinch of vanilla pod
+* [ ] optional: 1 egg yolk
+
+### Preparation
+
+[%interactive]
+* [ ] Knead ingredients in a bowl until these get a consistency of a dough. _Avoid to knead to long since dough might lose bond._
+* [ ] Dough has to rest in fridge for 1 to 2 hours. It might help to wrap the dough while resting.
+* [ ] Roll out dough and cut out biscuits. If dough is sticky then dust with some additional flour.
+* [ ] Oven must be preheated at 160 degrees Celsius. Bake for approximately 5 to 10 minutes.
+
+====
+*NOTE* _Watch after the biscuits. Mind that shortcrust pastry biscuits should still be baked light. After taking the biscuits out of the oven they still get a bit darker while these rest._
+====

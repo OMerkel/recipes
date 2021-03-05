@@ -1,0 +1,34 @@
+## Kochkäse
+__Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
+
+### Zutaten
+
+[%interactive]
+* [ ] 750 g Quark
+* [ ] 250 ml süße Sahne
+* [ ] 50 g Butter
+* [ ] 1 TL Natron
+* [ ] 1 TL Salz
+* [ ] 2 EL Kümmel
+
+### Zubereitung
+
+[%interactive]
+* [ ] Quark in mit Leinentuch ausgelegten Sieb geben und 3 bis 4 Stunden abtropfen lassen.
+* [ ] Durch Auswringen weitere Restflüssigkeit verringern.
+* [ ] Quark in einer Schüssel bei Zimmertemperatur weitere 2 bis 3 Stunden ruhig stehen lassen.
+* [ ] Nach Ruhezeit Quark, Sahne, Kümmel und Salz in einem großen Topf vorsichtig erhitzen.
+
+====
+*HINWEIS* _Die Temperatur im Topf darf dabei 42 °C nicht überschreiten._
+====
+
+[%interactive]
+* [ ] Butter stückeln und unterrühren bis sich die eingedickte Masse vom Topfboden gelöst hat.
+* [ ] Natron hinzugeben. Unter Kohlensäurebildung vergrößert sich das Volumen der Masse.
+* [ ] Sobald die Kohlensäure weitestgehend aus dem Kochkäse entwichen ist, wird mit Salz und nach Wunsch auch Kümmel abgeschmeckt.
+* [ ] Kochkäse vollständig abkühlen lassen.
+
+====
+*LAGERUNG* _Gekühlt etwa eine Woche haltbar._
+====
