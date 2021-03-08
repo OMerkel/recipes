@@ -11,4 +11,6 @@ Cooking &amp; Baking
 ## EN 🇬🇧 🇺🇸
 * [Shortcrust Pastry Biscuits]( https://omerkel.github.io/recipes/en/html/shortcrust%20pastry%20biscuits.html )
 
+<img src="./img/qrcode_omerkel.github.io_recipes.png" alt="Enjoy your meal…" width="35%"/>
+
 <!-- Helpful tool: https://asciidoclive.com/ -->
