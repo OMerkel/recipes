@@ -1,6 +1,8 @@
 ## Bärlauchknödel
 __Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
 
+image:../../img/bärlauchknödel.jpg[alt="Bärlauchknödel",width=40%]
+
 ### Zutaten
 
 [%interactive]
