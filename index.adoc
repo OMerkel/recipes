@@ -1,0 +1,19 @@
+# Recipes
+
+Cooking &amp; Baking
+
+_Source and additional information: https://github.com/OMerkel/recipes[github.com/OMerkel/recipes^]_
+
+## DE 🇩🇪
+* https://omerkel.github.io/recipes/de/html/apfelflammkuchen%20ohne%20hefe.html[Apfelflammkuchen ohne Hefe^]
+* https://omerkel.github.io/recipes/de/html/bärlauchknödel.html[Bärlauchknödel^]
+* https://omerkel.github.io/recipes/de/html/elsässer%20flammkuchen%20ohne%20hefe.html[Elsässer Flammkuchen ohne Hefe^]
+* https://omerkel.github.io/recipes/de/html/kochkäse.html[Kochkäse^]
+* Vogelsberger https://omerkel.github.io/recipes/de/html/salzekuchen.html[Salzekuchen^]
+
+## EN 🇬🇧 🇺🇸
+* https://omerkel.github.io/recipes/en/html/shortcrust%20pastry%20biscuits.html[Shortcrust Pastry Biscuits^]
+
+image:./img/qrcode_omerkel.github.io_recipes.png[alt="Enjoy your meal…",width=35%]
+
+pass:[<!-- Helpful tool: https://asciidoclive.com/ -->]

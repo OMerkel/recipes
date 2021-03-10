@@ -1,0 +1,41 @@
+## Tarte flambée alsacienne facile
+__Source et informations complémentaires: https://github.com/OMerkel/recipes __
+
+### Ingrédients
+Pour la pâte
+
+[%interactive]
+* [ ] 450 g de farine
+* [ ] 200 ml d'eau tiède
+* [ ] 4 cuillères à soupe d'huile
+* [ ] 2 jaunes d'œufs
+* [ ] 1/2 cuillère à café de sel
+
+Pour la garniture
+
+[%interactive]
+* [ ] 200 g de crème aigre ou crème fraîche
+* [ ] 250 g de fromage blanc / quark / séré maigre
+* [ ] Très peu de sel et poivre
+* [ ] 2 oignons rouges moyen
+* [ ] 150 g de lardons
+* [ ] 1 bouquet de ciboulette fraîche
+
+### Préparation
+
+[%interactive]
+* [ ] Zutaten für den Teig vermengen und zu einem glatten Teig kneten.
+* [ ] Teig abgedeckt bei Raumtemperatur ca. 30 Minuten ruhen lassen.
+* [ ] Teig aufteilen und auf gefettetem Backblech dünn ausrollen.
+
+====
+*HINWEIS* _Der Teig sollte ca. 2 mm dünn ausgerollt werden._
+====
+
+[%interactive]
+* [ ] Zwiebeln schälen und wahlweise in dünne Ringe oder Streifen schneiden und glasig andünsten.
+* [ ] Speck würfeln.
+* [ ] Crème fraîche mit Quark, Salz und Pfeffer vermengen und auf dem Teig verteilen.
+* [ ] Zwiebeln und Speck auf den Flammkuchen geben.
+* [ ] Im vorgeheizten Ofen ca. 10 Minuten bei E-Herd 250 °C backen.
+* [ ] Schnittlauch in Röllchen schneiden und Flammkuchen damit garnieren.

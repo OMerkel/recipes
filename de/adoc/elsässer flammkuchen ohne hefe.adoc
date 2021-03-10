@@ -1,0 +1,41 @@
+## Elsässer Flammkuchen ohne Hefe
+__Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
+
+### Zutaten
+Für den Teig
+
+[%interactive]
+* [ ] 450 g Mehl
+* [ ] 200 ml lauwarmes Wasser
+* [ ] 4 EL Öl
+* [ ] 2 Eigelb
+* [ ] 1/2 TL Salz
+
+Für den Belag
+
+[%interactive]
+* [ ] 200 g Schmand oder Crème fraîche
+* [ ] 250 g Magerquark
+* [ ] etwas Salz und Pfeffer
+* [ ] 2 mittelgroße rote Zwiebeln
+* [ ] 150 g Speck
+* [ ] 1 Bund frischen Schnittlauch
+
+### Zubereitung
+
+[%interactive]
+* [ ] Zutaten für den Teig vermengen und zu einem glatten Teig kneten.
+* [ ] Teig abgedeckt bei Raumtemperatur ca. 30 Minuten ruhen lassen.
+* [ ] Teig aufteilen und auf gefettetem Backblech dünn ausrollen.
+
+====
+*HINWEIS* _Der Teig sollte ca. 2 mm dünn ausgerollt werden._
+====
+
+[%interactive]
+* [ ] Zwiebeln schälen und wahlweise in dünne Ringe oder Streifen schneiden und glasig andünsten.
+* [ ] Speck würfeln.
+* [ ] Crème fraîche mit Quark, Salz und Pfeffer vermengen und auf dem Teig verteilen.
+* [ ] Zwiebeln und Speck auf den Flammkuchen geben.
+* [ ] Im vorgeheizten Ofen ca. 10 Minuten bei E-Herd 250 °C backen.
+* [ ] Schnittlauch in Röllchen schneiden und Flammkuchen damit garnieren.

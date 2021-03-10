@@ -1,0 +1,47 @@
+## Apfelflammkuchen ohne Hefe
+__Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
+
+### Zutaten
+Für den Teig
+
+[%interactive]
+* [ ] 450 g Mehl
+* [ ] 200 ml lauwarmes Wasser
+* [ ] 4 EL Öl
+* [ ] 2 Eigelb
+* [ ] 1/2 TL Salz
+
+Für den Belag
+
+[%interactive]
+* [ ] 200 g Schmand oder Crème fraîche
+* [ ] 250 g Magerquark
+* [ ] Prise Salz
+* [ ] 4 Äpfel
+* [ ] 1 EL Zucker
+* [ ] 1 TL Zimt
+
+### Zubereitung
+
+[%interactive]
+* [ ] Zutaten für den Teig vermengen und zu einem glatten Teig kneten.
+* [ ] Teig abgedeckt bei Raumtemperatur ca. 30 Minuten ruhen lassen.
+* [ ] Teig aufteilen und auf gefettetem Backblech dünn ausrollen.
+
+====
+*HINWEIS* _Der Teig sollte ca. 2 mm dünn ausgerollt werden._
+====
+
+[%interactive]
+* [ ] Crème fraîche mit Quark und Salz vermengen und auf dem Teig verteilen.
+* [ ] Äpfel schälen, Kerngehäuse entfernen und Äpfel in dünne Scheiben schneiden.
+* [ ] Die dünnen Apfelscheiben auf den Flammkuchen legen.
+* [ ] Im vorgeheizten Ofen ca. 10 Minuten bei E-Herd 250 °C backen.
+* [ ] Zucker und Zimt mischen und auf dem gebackenen Flammkuchen verteilen.
+
+====
+*TIPP* _Nach dem Backen ca. 2 Esslöffel zimmerwarmen Calvados über den heißen
+Flammkuchen träufeln und flambieren bis die Flamme vollständig
+erloschen ist. Dabei stets selbst ausreichend Abstand zur Flamme und zu
+brennbaren Gegenständen beachten._
+====
