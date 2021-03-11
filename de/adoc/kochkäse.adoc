@@ -1,6 +1,10 @@
 ## Kochkäse
 __Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
 
+Zum https://omerkel.github.io/recipes/[__Rezepte-Index__ pass:[<font size="+3">&#x1F372;</font>]]
+
+image:../../img/kochkäse.jpg[alt="Kochkäse",width=40%]
+
 ### Zutaten
 
 [%interactive]
@@ -31,4 +35,9 @@ __Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
 
 ====
 *LAGERUNG* _Gekühlt etwa eine Woche haltbar._
+====
+
+====
+*TIPP* _Gibt man gewärmten Kochkäse auf ein und zu einem panierten Schnitzel mit
+Bratkartoffeln, wird es als Odenwälder Schnitzel oder Kochkässchnitzel bezeichnet._
 ====

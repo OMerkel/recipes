@@ -1,6 +1,10 @@
 ## Salzekuchen
 __Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
 
+Zum https://omerkel.github.io/recipes/[__Rezepte-Index__ pass:[<font size="+3">&#x1F372;</font>]]
+
+image:../../img/salzekuchen.jpg[alt="Vogelsberger Salzekuchen",width=80%]
+
 ### Zutaten
 Für den Teig
 
@@ -42,4 +46,4 @@ Für den Belag
 * [ ] Speck würfeln.
 * [ ] Teig durchkneten und auf gefettetem Backblech ausrollen.
 * [ ] Kartoffelmasse gefolgt vom Speck auf dem ausgerollten Teig verteilen.
-* [ ] Im vorgeheizten Ofen ca. 50 Minuten bei E-Herd 200 °C / Umluft 175 °C backen.
+* [ ] Im vorgeheizten Ofen ca. 40 Minuten bei E-Herd 200 °C / Umluft 175 °C backen.

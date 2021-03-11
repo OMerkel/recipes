@@ -1,0 +1,45 @@
+## Timtimo
+__Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
+
+Zum https://omerkel.github.io/recipes/[__Rezepte-Index__ pass:[<font size="+3">&#x1F372;</font>]]
+
+### Zutaten
+
+[%interactive]
+* [ ] 300 g rote Linsen
+* [ ] 2 mittelgroße rote Zwiebeln
+* [ ] 500 ml warmes Wasser
+* [ ] 400 g Tomaten
+* [ ] 5 EL Öl
+* [ ] frischer geriebener Ingwer
+* [ ] 3 Knoblauchzehen
+* [ ] 1 TL Kurkuma
+* [ ] 1 Prise Zimt
+* [ ] 1 Prise gemahlenen Bockshornkleesamen
+* [ ] 1 Prise gemahlenen Nelken
+* [ ] 1/2 TL Kardamomsamen
+* [ ] 2 frische Chilischoten
+* [ ] Salz
+* [ ] Pfeffer
+* [ ] frische Korianderblätter
+
+====
+*TIPP* _Auf Injera (gesäuertes Fladenbrot, ähnlich Pfannkuchen) servieren._
+====
+
+### Zubereitung
+
+[%interactive]
+* [ ] Linsen ausspülen, um diese zu reinigen.
+* [ ] Zwiebel schälen, grob würfeln und andünsten.
+* [ ] Während die Zwiebeln unter Zugabe des Öls weiter anbraten, werden geriebener Ingwer, Kurkuma und gepresster Knoblauch zugegeben.
+* [ ] Tomaten fein stückeln und hinzugegeben und ca. 10 Minuten köcheln.
+* [ ] Das bereits warme Wasser und Linsen zugeben, Hitze reduzieren, Topf schließen und ca. weitere 15 Minuten garen. Bei Bedarf weiter Wasser hinzugeben.
+* [ ] Fein geschnittenen Koriander, Chilischoten und restliche gemörserte Gewürze hinzufügen.
+* [ ] Mit Salz, Pfeffer abschmecken.
+
+====
+*TIPP* _Pfeffer und kleingeschnittene frische Kräuter erst am Ende hinzugeben,
+damit deren Geschmack erhalten bleibt. Gegebenenfalls erst angerichtet auf dem
+Teller damit garnieren._
+====

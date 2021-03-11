@@ -1,6 +1,10 @@
 ## Apfelflammkuchen ohne Hefe
 __Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
 
+Zum https://omerkel.github.io/recipes/[__Rezepte-Index__ pass:[<font size="+3">&#x1F372;</font>]]
+
+image:../../img/apfelflammkuchen%20ohne%20hefe.jpg[alt="Apfelflammkuchen ohne Hefe",width=40%]
+
 ### Zutaten
 Für den Teig
 
@@ -40,8 +44,9 @@ Für den Belag
 * [ ] Zucker und Zimt mischen und auf dem gebackenen Flammkuchen verteilen.
 
 ====
-*TIPP* _Nach dem Backen ca. 2 Esslöffel zimmerwarmen Calvados über den heißen
-Flammkuchen träufeln und flambieren bis die Flamme vollständig
-erloschen ist. Dabei stets selbst ausreichend Abstand zur Flamme und zu
-brennbaren Gegenständen beachten._
+*TIPP* _Nach dem Backen in einer Kelle zimmerwarmen Calvados oder Strohrum
+entzünden und diesen dann vorsichtig über den heißen Flammkuchen geben und
+flambieren bis die Flamme vollständig erloschen ist. Dabei stets selbst
+ausreichend Abstand zur Flamme und zu brennbaren Gegenständen (insbesondere
+Backpapier) beachten._
 ====

@@ -1,6 +1,8 @@
 ## Shortcrust Pastry Biscuits
 __Source and additional information: https://github.com/OMerkel/recipes __
 
+Visit the https://omerkel.github.io/recipes/[__recipe index__ pass:[<font size="+3">&#x1F372;</font>]]
+
 ### Ingredients
 
 [%interactive]

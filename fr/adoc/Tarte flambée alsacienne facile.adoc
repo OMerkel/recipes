@@ -1,6 +1,8 @@
 ## Tarte flambée alsacienne facile
 __Source et informations complémentaires: https://github.com/OMerkel/recipes __
 
+Zum https://omerkel.github.io/recipes/[__Rezepte-Index__ pass:[<font size="+3">&#x1F372;</font>]]
+
 ### Ingrédients
 Pour la pâte
 

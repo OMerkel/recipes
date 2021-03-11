@@ -1,18 +1,25 @@
+:toc: preamble
 # Recipes
 
 Cooking &amp; Baking
 
-_Source and additional information: https://github.com/OMerkel/recipes[github.com/OMerkel/recipes^]_
+_Source and additional information: https://github.com/OMerkel/recipes[github.com/OMerkel/recipes]_
 
 ## DE 🇩🇪
-* https://omerkel.github.io/recipes/de/html/apfelflammkuchen%20ohne%20hefe.html[Apfelflammkuchen ohne Hefe^]
-* https://omerkel.github.io/recipes/de/html/bärlauchknödel.html[Bärlauchknödel^]
-* https://omerkel.github.io/recipes/de/html/elsässer%20flammkuchen%20ohne%20hefe.html[Elsässer Flammkuchen ohne Hefe^]
-* https://omerkel.github.io/recipes/de/html/kochkäse.html[Kochkäse^]
-* Vogelsberger https://omerkel.github.io/recipes/de/html/salzekuchen.html[Salzekuchen^]
+* https://omerkel.github.io/recipes/de/html/apfelflammkuchen%20ohne%20hefe.html[Apfelflammkuchen ohne Hefe]
+* https://omerkel.github.io/recipes/de/html/bärlauchknödel.html[Bärlauchknödel]
+* https://omerkel.github.io/recipes/de/html/citronkladdkaka.html[Citronkladdkaka]
+* https://omerkel.github.io/recipes/de/html/elsässer%20flammkuchen%20ohne%20hefe.html[Elsässer Flammkuchen ohne Hefe]
+* https://omerkel.github.io/recipes/de/html/frankfodder%20grie-soß.html[Frankfodder Grie-Soß]
+* https://omerkel.github.io/recipes/de/html/geschnetzeltes%20à%20la%20stroganoff.html[Geschnetzeltes à la Stroganoff]
+* https://omerkel.github.io/recipes/de/html/kochkäse.html[Kochkäse]
+* Vogelsberger https://omerkel.github.io/recipes/de/html/salzekuchen.html[Salzekuchen]
+* https://omerkel.github.io/recipes/de/html/senegalesisches%20mafé.html[Senegalesisches Mafé]
+* https://omerkel.github.io/recipes/de/html/spinatkuchen.html[Spinatkuchen]
+* https://omerkel.github.io/recipes/de/html/timtimo.html[Timtimo]
 
 ## EN 🇬🇧 🇺🇸
-* https://omerkel.github.io/recipes/en/html/shortcrust%20pastry%20biscuits.html[Shortcrust Pastry Biscuits^]
+* https://omerkel.github.io/recipes/en/html/shortcrust%20pastry%20biscuits.html[Shortcrust Pastry Biscuits]
 
 image:./img/qrcode_omerkel.github.io_recipes.png[alt="Enjoy your meal…",width=35%]
 

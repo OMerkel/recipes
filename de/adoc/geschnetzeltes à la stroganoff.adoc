@@ -1,0 +1,43 @@
+## Geschnetzeltes à la Stroganoff
+__Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
+
+Zum https://omerkel.github.io/recipes/[__Rezepte-Index__ pass:[<font size="+3">&#x1F372;</font>]]
+
+image:../../img/geschnetzeltes%20à%20la%20stroganoff.jpg[alt="Geschnetzeltes à la Stroganoff",width=95%]
+
+### Zutaten
+
+[%interactive]
+* [ ] 500 g Rind- oder Schweinefleisch
+* [ ] 250 g Champignons
+* [ ] 2 mittelgroße Zwiebeln
+* [ ] 2 EL Öl
+* [ ] 1/2 TL Salz
+* [ ] 200ml Weißwein
+* [ ] 6 eingelegte Gewürzgurken
+* [ ] 2 EL eingelegter grüner Pfeffer
+* [ ] 2 EL scharfer Senf
+* [ ] 200 g Schmand
+* [ ] Pfeffer
+* [ ] frische Petersilie oder Korianderblätter
+
+====
+*TIPP* _Spätzle als Beilage servieren._
+====
+
+### Zubereitung
+
+[%interactive]
+* [ ] Fleisch in Streifen schneiden.
+* [ ] Champignons vierteln.
+* [ ] Zwiebel schälen und in Halbringe schneiden.
+* [ ] Fleisch separat portionsweise scharf anbraten und in großen Topf geben.
+* [ ] Champignons und Zwiebeln glasig anbraten und zum Fleisch hinzugeben. Mit Weißwein löschen und ggf. mit etwas zusätzlichem Wasser aufkochen und zugedeckt etwa 20 Minuten schmoren.
+* [ ] Gurken stifteln und Salz, grünen Pfeffer zugeben, Senf und Schmand einrühren und weitere 5 Minuten garen.
+* [ ] Mit Salz, Pfeffer und frischen Kräutern abschmecken.
+
+====
+*TIPP* _Pfeffer und kleingeschnittene frische Kräuter erst am Ende hinzugeben,
+damit deren Geschmack erhalten bleibt. Gegebenenfalls erst angerichtet auf dem
+Teller damit garnieren._
+====

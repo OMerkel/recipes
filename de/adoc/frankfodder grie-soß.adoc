@@ -1,0 +1,50 @@
+## Frankfodder Grie-Soß
+__Quelle und weitere Informationen: https://github.com/OMerkel/recipes __
+
+Zum https://omerkel.github.io/recipes/[__Rezepte-Index__ pass:[<font size="+3">&#x1F372;</font>]]
+
+… auch "Frankfurter Grüne-Soße" genannt.
+
+image:../../img/frankfodder%20grie-soß.jpg[alt="Frankfodder Grie-Soß",width=70%]
+
+### Zutaten
+
+[%interactive]
+* [ ] 1 Batzen der sieben Kräuter
+[%interactive]
+** [ ] _Petersilie,_
+** [ ] _Schnittlauch,_
+** [ ] _Borretsch,_
+** [ ] _Kresse,_
+** [ ] _Sauerampfer,_
+** [ ] _Kerbel und_
+** [ ] _Pimpernelle (Kleiner Wiesenknopf)_
+* [ ] 250 ml saure Sahne
+* [ ] 500 ml Joghurt / Quark
+* [ ] 8 Stk Cornichons
+* [ ] 2 EL mittelscharfer Senf
+* [ ] 1 Knoblauchzehe
+* [ ] 2 EL Zitronensaft
+* [ ] 1 Prise Salz
+
+### Zubereitung
+
+[%interactive]
+* [ ] Kräuter kleinhacken und die Hälfte davon in Joghurt und saurer Sahne mit Stabmixer weiter zerkleinern.
+* [ ] Cornichons würfeln, Knoblauch zerdrücken und mit restlichen Zutaten und restlichen Kräutern dem Joghurt vorsichtig unterrühren.
+
+image:../../img/kräuter-1.jpg[alt="Mengenverhältnisse",width=95%]
+
+image:../../img/kräuter-2.jpg[alt="7 Kräuter",width=95%]
+
+_Alphabetisch sortiert beginnend von links: Borretsch, Kerbel, Kresse, Petersilie, Pimpernelle, Sauerampfer und Schnittlauch_
+
+====
+*TIPP* _Eine Möglichkeit der Zubereitung ist es, die Grie-Soß mit Pell- oder
+Salzkartoffeln zu hartgekochten Eiern anzurichten. Alternativ gibt man Grüne-Soße auf
+ein und zu einem panierten Schnitzel mit Bratkartoffeln, so wird es als
+Frankfurter Schnitzel bezeichnet._
+====
+
+image:../../img/frankfurter%20schnitzel.jpg[alt="Frankfurter Schnitzel",width=60%]
+
