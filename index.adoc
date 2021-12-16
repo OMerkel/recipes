@@ -16,6 +16,7 @@ _Source and additional information: https://github.com/OMerkel/recipes[github.co
 * Vogelsberger https://omerkel.github.io/recipes/de/html/salzekuchen.html[Salzekuchen]
 * https://omerkel.github.io/recipes/de/html/senegalesisches%20mafé.html[Senegalesisches Mafé]
 * https://omerkel.github.io/recipes/de/html/spinatkuchen.html[Spinatkuchen]
+* https://omerkel.github.io/recipes/de/html/tannengelee.html[Tannenspitzen-Gelee]
 * https://omerkel.github.io/recipes/de/html/timtimo.html[Timtimo]
 
 ## EN 🇬🇧 🇺🇸
