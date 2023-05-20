@@ -28,7 +28,7 @@ image:../../img/bärlauchknödel.jpg[alt="Bärlauchknödel",width=40%]
 * [ ] Brötchenwürfel mit Eiern, Milch, Prise Salze, Bärlauch und Zwiebeln vermischen.
 * [ ] Knödelmasse mit Mehl weiter binden bis diese formbar wird. Gegebenenfalls etwas weiteres Mehl verwenden.
 * [ ] Mit feuchten Händen etwa 10 Knödel formen.
-* [ ] Die Knüdel ca. 15 Minuten in siedendem Salzwasser ziehen lassen.
+* [ ] Die Knödel ca. 15 Minuten in siedendem Salzwasser ziehen lassen.
 * [ ] Abschließend mit geriebenen Parmesan bestreuen.
 
 ====
